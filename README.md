@@ -1,0 +1,2 @@
+# premium-core-mk-001-sand-core-assembly-and-chaplet
+Tired of sand cores shifting during pour and chaplets ending up in the wrong place? Your casting scrap rates just met their match.  This Notion template transforms your chaotic core-making workflow into a repeatable, error-proof system. It provides a structured planner for tracking every sand core assembly step and chaplet placement detail, ensurin
